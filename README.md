@@ -44,7 +44,6 @@
 ## 📫 Contact
 
 - 📧 Email: `homepia123@gmail.com`
-- 💼 Portfolio: [choccojang.github.io/portfolio](https://ChoccoJang.github.io/portfolio)
 - 🧑‍💻 GitHub: [github.com/ChoccoJang](https://github.com/ChoccoJang)
 
 ---
