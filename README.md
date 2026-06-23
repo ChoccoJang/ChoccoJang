@@ -6,15 +6,6 @@
   <img src="https://img.shields.io/badge/시스템 아키텍트-green?style=for-the-badge" alt="시스템 아키텍트">
 </p>
 
-<p align="center">
-  <a href="https://github.com/ChoccoJang">
-    <img src="https://img.shields.io/github/followers/ChoccoJang?label=팔로우&style=social" alt="GitHub 팔로워">
-  </a>
-  <a href="mailto:homepia123@gmail.com">
-    <img src="https://img.shields.io/badge/homepia123@gmail.com-blue?logo=gmail" alt="Gmail">
-  </a>
-</p>
-
 ---
 
 ## 💼 소개
